@@ -1,0 +1,15 @@
+Role	Name		ID	Gender	Looking	For	Latitude	Longitude
+VIP	Lee	Ming	1233	F	Both	22.3033	114.2515
+Common	User	Sophia	1234	F	M	22.2543	114.2121
+Member Chan Tai Man taiman M F 22.3124 114.1567
+VIP Hui Sham samhui F F 22.4414 114.2043
+Member Ho Ming 1236 F M 22.3313 114.2629
+VIP Crstiano Ronaldo cr7 M F 40.4325 -3.6080
+Common User Dirk Nowitzki dn M Both 23.0 110.0
+Common User Steven Hoi 1235 M F 22.3125 114.3188
+Member Eason Chan eason M F 22.3212 114.2782
+Member Johnny johnny M F 11.2223 133.2223
+Member Betty Jones betty F M 55.231 122
+Member Michael Jordan jordan M F 25 110
+Common User Popeye Jones popeye M Both 20 110
+VIP Christina Aguilera christina F M 25 135
